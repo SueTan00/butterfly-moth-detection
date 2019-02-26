@@ -1,0 +1,6 @@
+framework module Pods_objDetectionTests {
+  umbrella header "Pods-objDetectionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
